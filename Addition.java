@@ -1,10 +1,11 @@
 class Addition 
 {
 	public static void main (string atgs[])
-	{int num1,num2,res;
-		num1=13;
-		num2=35;
-		res=num1+num2;
+	{
+	int number1,number2,res;
+		number1=13;
+		number2=35;
+		res=number1+number2;
 		system.out.println("result is : "+res);
 	}
 }
