@@ -5,8 +5,12 @@ class Addition
 	int number1,number2,res;
 		number1=13;
 		number2=35;
-		res=number1+number2;
-		system.out.println("result is : "+res);
+		res=num1+num2;
+		system.out.println("res is : "+res);
+		res =num1-num2;
+		system.out.println("res is :"+res )
+		res= num1*num2;
+		system.out.println("res is :"+res )
 	}
 }
 
